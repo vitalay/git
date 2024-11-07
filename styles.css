@@ -1,0 +1,24 @@
+header{
+    background-color: rgb(150, 111, 146);
+    
+  }
+  
+ 
+ul {
+     list-style: none;
+      margin: 0;
+      padding: 20px;
+    }
+a {
+font-size: 40px;
+padding: 20px;
+color: #293133;
+text-decoration: none;
+ }   
+ a:hover{
+    color: #ffcf48;
+    text-decoration: none;
+ }
+ li{
+display: inline;
+ }
